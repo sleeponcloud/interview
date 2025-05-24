@@ -1,0 +1,2 @@
+void means that a function has no return value, or that the return type is empty.
+never means that a function will never return — either because it throws an exception or enters an infinite loop.

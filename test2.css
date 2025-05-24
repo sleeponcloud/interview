@@ -1,0 +1,12 @@
+/* 2-1 */
+
+/* Because the specificity is lower. */
+.container .content ol.shop-list li.item {
+    color: blue;
+}
+
+/* 2-2 */
+.shop-list li.item:nth-child(odd) + li.item {
+    background-color: #f0f8ff;
+}
+  

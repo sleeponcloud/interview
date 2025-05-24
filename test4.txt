@@ -1,0 +1,2 @@
+The virtual DOM is a lightweight JavaScript object that represents the real DOM in memory.
+The virtual DOM exists to solve performance and efficiency issues when updating the real DOM.

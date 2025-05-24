@@ -1,0 +1,13 @@
+error: const { id, text, studyPoint } = todos;
+fix: use .map() or get specific todo
+
+error: basePoints(e.target.value)
+fix: setBasePoints(e.target.value);
+
+
+error: value1 is not defined
+fix: setSumPoints(parseInt(basePoints) + parseInt(e.target.value));
+
+
+error: <button onClick={toggleTodo(id)}>
+fix: <button onClick={() => toggleTodo(id)}>篩選課程</button>

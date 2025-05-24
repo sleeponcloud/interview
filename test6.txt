@@ -1,0 +1,2 @@
+A framework-based website uses structure, tools, and development patterns to help build and manage websites more efficiently.
+A non-framework website is usually built with plain HTML, CSS, and JavaScript.
